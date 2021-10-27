@@ -9,16 +9,17 @@ Create a doubly linked list using the Node class.
  
  Insert the element to empty list
  
- * NewDoublyLinkedList.InsertToEmptyList(10)
+ * NewDoublyLinkedList.InsertToEmptyList(x)
  
-  Insert the element at the end
+  Insert the element at the end. 
  
- * NewDoublyLinkedList.InsertToEnd(20)
- * NewDoublyLinkedList.InsertToEnd(30)
- * NewDoublyLinkedList.InsertToEnd(40)
- * NewDoublyLinkedList.InsertToEnd(50)
- * NewDoublyLinkedList.InsertToEnd(60)
+ * NewDoublyLinkedList.InsertToEnd(x)
+ * NewDoublyLinkedList.InsertToEnd(x)
+ * NewDoublyLinkedList.InsertToEnd(x)
+ * NewDoublyLinkedList.InsertToEnd(x)
+ * NewDoublyLinkedList.InsertToEnd(x)
 
+Change values with (X) to a user-defined value. 
 
 ## Output
 
