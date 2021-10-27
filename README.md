@@ -22,7 +22,7 @@ Create a doubly linked list using the Node class.
 
 ## Output
 
-Traverse & Display each element of the list to the console by calling the display method  'Display()' after inserting data as follows 'NewDoublyLinkedList.Display()'.  
+Traverse & Display each element of the list to the console by calling the print method  'Display()' after inserting data as follows 'NewDoublyLinkedList.Display()'.  
 
 ### Reference 
   StackAbuse.com(2019).https://bit.ly/3nydLH1. Date Accessed: 27/10/21
